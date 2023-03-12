@@ -1,0 +1,18 @@
+* **🌱Mulai Dengan Cepat**
+  * [😇Mulai Cepat](QuickStart.md)
+  * [💾Konfigurasi](Configure.md)
+  * [📤Pembaruan Bkebi](UpdateBkebi.md)
+  * [📑Pengenalan File Direktori Bkebi](BkebiFileTree.md)
+* **🧐Deskripsi Rinci dan Konfigurasi**
+  * [⭐️Pemain](Player.md)
+  * [🌏Dunia](World.md)
+  * [✈️Teleportasi](Teleport.md)
+  * [👀Perspektif](ESP.md)
+  * [🕶Visual](Visuals.md)
+  * [🛠Pengaturan](Settings.md)
+  * [📄Lainnya](Other.md)
+  * [⌨️Hotkeys](Hotkeys.md)
+  * [🗃Debug](Debug.md)
+* [**❓Ruang-Q&A**](QA.md)
+* [**✈️Kustom Teleportasi**](CustomTeleport.md)
+* [**🚫Daftar Hitam Bkebi**](BlackList.md)

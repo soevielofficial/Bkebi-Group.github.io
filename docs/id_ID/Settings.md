@@ -1,0 +1,147 @@
+# Mempersiapkan
+
+> Pengaturan Bkebi
+
+------
+
+## Cheat Hasil Anti Cheat
+
+Pemalsuan/pemblokiran pelaporan anti-cheat untuk `WindSeedClientNotify`.
+
+## Mematikan anticheat
+
+关闭`mhyprot2句柄`（更改将在重新启动后生效）
+
+_如果你不知道这两个选项是什么意思请不要修改它，除非你想这个号上封神榜_
+
+## 屏蔽指标输出
+
+不在控制台中输出Metrics库的垃圾信息。
+
+- 更改将在游戏重新启动后生效。
+
+## Bahasa
+Memodifikasi tampilan bahasa Bkebi
+
+- Pilihan:
+  - `English | EN (DEBUG)`
+  - `Indonesian | ID`
+  - `Russian | RU`
+  - `Simplified Chinese | ZH-CN`
+  - `Traditional Chinese | ZH-TW`
+  - `English | EN`
+
+_Terjemahan & masukan lainnya untuk Masalah terjemahan dapat dikirimkan [di sini](https://github.com/Bkebi-Group/Bkebi-Language/blob/main/README-CHS.md)_
+
+------
+
+## Universal
+
+### Tampilan tombol menu Bkebi
+
+Tombol untuk mengganti menu Bkebi, tidak boleh kosong.
+
+- Jika Anda lupa kuncinya, Anda perlu mencari `MenuKey` di file konfigurasi `cfg.json` di direktori root, cari dan hapus `"MenuKey": {num},` ({num} adalah nilai apa saja), kemudian mulai permainan dan tekan `F1` untuk membuka menu.
+
+### Command Parameter
+
+Jalankan game dengan argumen baris perintah
+
+### Menambahkan DLL
+
+Menyuntikkan Dll ekstra
+
+### Aktifkan hotkey
+
+是否启用除显示`Bkebi菜单按键`外的所有Bkebi-GC快捷键。
+
+------
+
+## 日志
+
+- 控制台日志 `启用控制台以记录信息(更改将在游戏重新启动后生效)`
+
+- 文件日志 `启用文件记录(更改将在游戏重新启动后生效)，将在应用程序目录中创建-个用于记录的文件夹。`
+
+------
+
+## 状态窗口
+
+显示一个窗口展示开启的功能
+
+- 显示状态窗口 `开关状态窗口`
+
+- 移动状态窗口 `允许移动状态窗口`
+
+![Status.png](_images\ZH_CN\Settings\Status.png)
+
+## 信息窗口
+
+显示一个窗口展示周围的宝箱&神瞳
+
+- 显示信息窗口 `开关信息窗口`
+
+- 移动信息窗口 `允许移动信息窗口`
+
+![Info.png](_images\ZH_CN\Settings\Info.png)
+
+## FPS指示器
+
+显示一个窗口显示当前游戏的FPS
+
+- 显示FPS指示器 `开关FPS指示器`
+
+- 移动FPS指示器 `允许移动FPS指示器`
+
+![Fps.png](_images\ZH_CN\Settings\Fps.png)
+
+------
+
+## 显示通知
+
+用于显示快捷键是否启用或关闭功能以及提示其他信息。
+
+- 通知之间的延迟(单位:毫秒)
+
+## 快速退出
+
+快速退出游戏
+
+## 定制界面
+
+_主题保存在themes文件夹下_
+
+- 字体大小 `设置gui字体大小`
+
+- 主题名称 `保存当前主题的名称`
+
+- 选择主题 `选择已保存的主题`
+
+- 显示ImGui主题定制 `打开ImGui窗口`
+
+- 详见[IMGUI](https://github.com/ocornut/imgui/wiki)
+
+## 账号切换器
+
+保存当前登入的账号,在启动时快速切换账户。
+
+- 要使用这个方法，首先导出账户，然后在快捷方式或命令行中添加以下参数:`-account "账号名称"`
+
+- 你也可以用`-region "区域名"`切换区域,可供选择的地区有:`usa` `eu` `asia` `thm`
+
+## 拦截WindSeed
+
+阻止来自恶意服务器可能导致RCE的WindSeed数据包，仅在私服使用。
+
+## 抓包工具
+
+为了满足工作需要，为具有指定名称的命名管道提供服务器。检查数据包处理程序项目。
+
+- 捕捉  启用捕获数据包信息并发送到管道(如果存在)
+- 操纵(暂)  启动抓包阻塞和修改数据包，可能会导致网络延迟。
+
+## RSA补丁
+
+- 运行时补丁，仅在私服使用
+- 自定义公钥
+- 自定义私钥

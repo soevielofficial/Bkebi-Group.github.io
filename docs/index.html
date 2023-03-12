@@ -60,10 +60,13 @@
           'https://cdn.jsdelivr.net/gh/Bkebi-Group/Bkebi-Group.github.io/docs/_navbar.md',
         '/en_US/(.*)':
           'https://cdn.jsdelivr.net/gh/Bkebi-Group/Bkebi-Group.github.io/docs/en_US/$1',
+        '/id_ID/(.*)':
+          'https://cdn.jsdelivr.net/gh/Bkebi-Group/Bkebi-Group.github.io/docs/id_ID/$1'
 		  	},
 
       nameLink: {
           '/en_US/': '/en_US/',
+          '/id_ID/': '/id_ID/',
           '/': '/',
         },
       
@@ -73,11 +76,13 @@
 		    paths: 'auto', // or 'auto'
 		    placeholder: {
 			    '/': '搜索',
-		      '/en_US/': 'Type to search'
+		      '/en_US/': 'Type to search',
+          '/id_ID/': 'Ketik untuk Mencari'
 		      },
 		    noData: {
           '/': '找不到结果',
-          '/en_US/': 'No Results'
+          '/en_US/': 'No Results',
+          '/id_ID/': 'Tidak ada hasil'
 		      },
 		    // 搜索标题的最大层级, 1 - 6
 		    depth: 3,
@@ -99,7 +104,8 @@
       // 开启封面
       coverpage: {
         '/': '_coverpage.md',
-        '/en_US/': '_coverpage.md'
+        '/en_US/': '_coverpage.md',
+        '/id_ID/': '_coverpage.md'
         },
       
       // 404页面
