@@ -1,8 +1,8 @@
-# 调试
+# Debug
 
-> 这里是帮助开发者调试Bkebi的页面
-## 实体管理器
-## 坐标位置
-## 地图管理器
-## 帧率曲线
-## Lua执行器
+> Ini adalah halaman untuk membantu pengembang men-debug Bkebi
+## Manajer entitas
+## Posisi koordinat
+## Manajer peta
+## Frame rate
+## Eksekutor LUA

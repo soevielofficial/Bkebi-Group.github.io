@@ -1,95 +1,95 @@
-# 虚空终端--问题与解答
+# Ruang--Pertanyaan dan Jawaban
 
->  参考并复制
->  * [Bkebi 中文使用图文教程 1.0](https://www.kdocs.cn/l/csNDRjijraFk)
->  * [Bkebi Discord 群组公告频道](https://discord.com/channels/1026295403282436097/1064766036714471465/1077543930721210419)
+>  Referensi dan Salinan
+>  * [Tutorial Grafis Bkebi China 1.0](https://www.kdocs.cn/l/csNDRjijraFk)
+>  * [Saluran Pengumuman Grup Discord Bkebi](https://discord.com/channels/1026295403282436097/1064766036714471465/1077543930721210419)
 
 
-## 一般问题
+## Pertanyaan Umum
 
-##### Q：Bkebi与Acrepi、Akebi有区别吗?
+##### Q：Apakah Bkebi berbeda dengan Acrepi dan Akebi?
   
-  > A：本质上是没有区别，源头一样，来自最初开源代码。Bkebi由于Akebi转为收费、Acrepi维护更新缓慢，所以由一群善心人士集合维护了另外一个版本：Bkebi 。在功能上，基本由Akebi原3.0开放代码制作，截止到最后一版的免费版功能都有。
+  > A: Intinya tidak ada bedanya, sourcenya sama, dari open source code aslinya. Karena Akebi beralih ke berbayar, dan Acrepi mempertahankan dan memperbarui dengan lambat, sekelompok orang yang bermaksud baik mengumpulkan dan memelihara versi lain: Bkebi. Dari segi fungsi, pada dasarnya diproduksi oleh open source code 3.0 asli Akebi, dan versi gratis memiliki semua fungsi hingga versi terakhir.
 
-##### Q：听说要改为验证模式了?
+##### Q：Saya dengar akan diubah ke mode verifikasi?
   
-  > A：是的，因为太多人倒卖，还有拿去B站直播的，因此计划在3.5版本加入了验证。所以请不要在公开平台上宣传 Bkebi 。你需要加入 Bkebi Discord 群组的 member成员组中成为成员才可进行验证。
+  > A：Ya, karena terlalu banyak orang yang menjual kembali, dan beberapa di antaranya disiarkan langsung di stasiun B, sehingga direncanakan untuk menambahkan verifikasi di versi 3.5. Jadi tolong jangan promosikan Bkebi di platform publik. Anda harus menjadi anggota grup discord Bkebi untuk diverifikasi.
 
-##### Q：如何加入Discord群组&成为member成员组有什么要求吗?
+##### Q：Bagaimana cara bergabung dengan grup Discord & apa saja persyaratan untuk menjadi anggota grup?
 
-  > A：我们将在每个月的15号和30号（28号）开放服务器邀请，请注意，服务器邀请的发送将在开放1天后关闭。    
-  > 在服务器邀请关闭4天后，我们将开放`#成员邀请-member_invite`频道1天，让成员有机会成为我们的Github成员并获得Member身份组。    
-  > 你需要拥有一个[Github](https://github.com/)账号。之后只需要在[成员邀请-member_invite](https://discord.com/channels/1026295403282436097/1064938146195845191) 发送自己的Github Profile（例如：https://github.com/xxxxxxx ）   
-  > 请注意，您有最多3次机会发送Github链接，如果3次发送且均未通过审核，那么您将得到封锁。    
-  > 不要认为您审核没有通过删除您发送的链接就不算次数了，我们有服务器日志，如果被我们发现您删除了您的链接发言，您将直接被封锁。    
-  > 在Github邀请链接发送关闭之后，我们将开始审核所有的邀请申请。审核期间将持续8-10天，以确保每个申请都被仔细地审核和考虑。    
-  > 关于审核标准，审核人员已经制定了相应的标准并绝对严格执行，我们的审核标准不会对外公开，我们的管理者更不会为任何人“开后门”，捏造谣言将会获得禁言/封锁。
+  > A：Kami akan membuka undangan server pada tanggal 15 dan 30 (28) setiap bulannya, mohon diperhatikan bahwa pengiriman undangan server akan ditutup 1 hari setelah pembukaan.
+  > 4 hari setelah undangan server ditutup, kami akan membuka saluran `成员邀请-member_invite` selama 1 hari untuk memberikan kesempatan kepada anggota untuk menjadi anggota Github kami dan mendapatkan grup status Anggota.
+  > Anda harus memiliki akun [Github](https://github.com/). Setelah itu, Anda hanya perlu mengirimkan Profil Github Anda sendiri (misalnya: https://github.com/xxxxxxx) di [成员邀请-member_invite](https://discord.com/channels/1026295403282436097/1064938146195845191)
+  > Harap dicatat bahwa Anda memiliki hingga 3 kesempatan untuk mengirim tautan Github, jika Anda mengirim 3 kali dan semuanya gagal ditinjau, maka Anda akan diblokir.
+  > Jangan berpikir bahwa jika Anda gagal melewati peninjauan dan menghapus tautan yang Anda kirim, itu tidak akan dihitung. Kami memiliki log server. Jika kami menemukan bahwa Anda menghapus tautan Anda untuk berbicara, Anda akan langsung diblokir.
+  > Kami akan mulai meninjau semua permintaan undangan setelah tautan undangan Github dikirimkan. Periode peninjauan akan berlangsung 8-10 hari untuk memastikan bahwa setiap aplikasi ditinjau dan dipertimbangkan dengan cermat.
+  > Mengenai standar audit, auditor telah menentukan standar yang sesuai dan menegakkannya dengan ketat. Standar audit kami tidak akan diungkapkan kepada publik, dan manajer kami tidak akan "membuka pintu belakang" untuk siapa pun. Rumor yang dibuat-buat akan dilarang/diblokir.
 
-##### Q：验证好麻烦，我想赞助后使用不可以吗?
-  > A：不建议，收费的话整个性质就变了，而且收费就等于有更新压力，对大家都不是好事。
+##### Q：Verifikasi sangat merepotkan, saya pikir itu tidak dapat digunakan setelah sponsor?
+  > A：Tidak disarankan Jika Anda mengenakan biaya untuk itu, seluruh sifat akan berubah, dan biaya akan sama dengan tekanan untuk memperbarui, yang bukan merupakan hal yang baik untuk semua orang.
 
-##### Q：Bkebi 会收费吗？
-  > A：目前Yuuri佬表示没打算，用爱发电。
+##### Q：Apakah Bkebi mengenakan biaya?
+  > A：Saat ini, Yuuri mengatakan bahwa dia tidak berencana menggunakan cinta untuk menghasilkan listrik.
 
-##### Q：Bkebi 会一直维护吗？
-  > A：不要催，不要急，不要恶语相向。Yuuri佬跟编译组大佬们应该还是会更新的。
+##### Q：Apakah Bkebi akan dipertahankan sepanjang waktu?
+  > A：Jangan terburu-buru, jangan terburu-buru, jangan menjelek-jelekkan satu sama lain. Yuuri dan orang-orang besar di tim akan tetap memperbarui.
 
 ---
-## 使用问题
-##### Q：注入失败
+## Mengenai Masalah
+##### Q：Injeksi gagal
 
-  > A：检查杀毒软件是否删除或者拦截了 Bkebi
+  > A：Periksa apakah perangkat lunak antivirus telah menghapus atau memblokir Bkebi
 
-##### Q：切换账号需要退出游戏吗？
+##### Q：Apakah saya harus keluar dari game untuk berganti akun?
 
-  > A：不需要，没有任何风险。
-
-
-##### Q：我可以开启 Bkebi 去其他人的世界吗？
-
-  > A：可以，原神的程序不会检测到你开启外挂，但你必须保证不会被他人举报。
+  > A：Tidak perlu, tidak ada risiko.
 
 
-##### Q：为什么联机需要单独配置?
+##### Q：Bisakah saya mengaktifkan Bkebi untuk pergi ke dunia orang lain?
 
-  > A: 因为如果您在联机中不切换配置您的功能会出现问题。
-  > ##### 比如您在跑，但因为您设置了无限体力，您在其他人那边会显示您游泳是在水中走路。
-  > ##### 比如您开启自由移动，因为去除了实体碰撞，在别人那边会显示您掉入了地下，但当您飞上高空关闭自由移动时，在别人的眼中，您将一瞬间从地下移动到天空。
+  > A：Ya, program Yuanshen tidak akan mendeteksi bahwa Anda membuka cheat tersebut, tetapi Anda harus memastikan bahwa Anda tidak akan dilaporkan oleh orang lain.
+
+
+##### Q：Mengapa online perlu dikonfigurasi secara terpisah?
+
+  > A: Karena jika Anda tidak mengganti konfigurasi secara online, Anda akan mengalami masalah.
+  > ##### Misalnya, Anda sedang berlari, tetapi karena Anda telah menetapkan stamina yang tidak terbatas, Anda akan menunjukkan bahwa Anda sedang berjalan di air sambil berenang.
+  > ##### Misalnya, jika Anda mengaktifkan gerakan bebas, karena tabrakan entitas dihilangkan, orang lain akan menunjukkan bahwa Anda telah jatuh ke tanah, tetapi ketika Anda terbang ke ketinggian dan mematikan gerakan bebas, di mata orang lain, Anda akan bergerak dari tanah ke langit dalam sekejap.
 
   > 所以，请不要在非好友的眼皮子底下使用自由移动，但您大可以对那位陌生人说“我的网络卡了”！
 
 
 
 ---
-## 传送功能问题
-##### Q：自动传送容易被封吗？
+## Masalah Teleportasi
+##### Q：Apakah teleportasi otomatis mudah diblokir?
 
-  > A：请间隔时间,我们建议最短为25秒！
-
-
-##### Q：为什么自动传送建议25秒而不是更低的？
-
-  > A：您当然可以自行设置间隔，但我们必须提醒您的是，过快的速度您将有被服务器拉回的可能，且我们认为过快的传送速度有可能使您被封禁。
+  > A：Harap jeda, kami merekomendasikan minimal 25 detik!
 
 
-##### Q：手动使用快捷键传送为什么要关闭自动传送？
+##### Q：Mengapa teleportasi otomatis menyarankan 25 detik dan tidak lebih rendah?
 
-  > A：因为在您开启自动传送时，手动传送无法生效。
-
-
-##### Q：手动传送需要切换TP配置吗？
-
-  > A：手动传送不需要切换TP配置，您可以使用原配置。
+  > A：Tentu saja, Anda dapat mengatur intervalnya sendiri, tetapi kami harus mengingatkan Anda bahwa jika kecepatan teleportasi terlalu cepat, Anda dapat ditarik kembali oleh server, dan menurut kami kecepatan teleportasi terlalu cepat, dan Anda mungkin diblokir .
 
 
-##### Q：手动传送为什么无效？
+##### Q：Gunakan tombol pintasan secara manual untuk mengirim Mengapa transfer otomatis harus dimatikan?
 
-  > A：因为你开启了自动传送，实际上这是错误的。
+  > A：Karena transfer manual tidak berfungsi saat Anda mengaktifkan transfer otomatis.
+
+
+##### Q：Apakah teleportasi manual perlu mengganti konfigurasi TP?
+
+  > A：Teleportasi manual tidak perlu mengganti konfigurasi TP, Anda dapat menggunakan konfigurasi asli.
+
+
+##### Q：Mengapa teleportasi manual tidak berfungsi?
+
+  > A：Karena Anda mengaktifkan teleportasi otomatis, yang sebenarnya salah.
 
 ---
-## 深渊
-##### Q：可以打深渊吗?它足够稳定吗？
+## Abyss
+##### Q：Bisakah digunakan di Abbys? Apakah cukup stabil?
 
-  > A：我们不推荐使用，因为深渊中您被记录的数据是无法估测的，我们无法保证您的安全，请谨慎使用。 
+  > A：Kami tidak menyarankan untuk menggunakannya, karena data yang Anda rekam di Abbys tidak terukur, dan kami tidak dapat menjamin keamanan Anda. Harap gunakan dengan hati-hati.
 
 

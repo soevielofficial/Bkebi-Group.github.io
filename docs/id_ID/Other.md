@@ -1,13 +1,13 @@
-# 其他
+# Lainnya
 
-> 其他有用的功能。
+> Fitur berguna lainnya.
 
 ------
 
-## 防止屏幕截图
+## Mencegah tangkapan layar
 
-从屏幕截图中隐藏游戏窗口
+Sembunyikan jendela game dari tangkapan layar
 
-## 抽卡链接获取器
+## Gambar pengambil tautan kartu
 
-首先打开抽卡历史记录，之后将显示链接
+Pertama buka riwayat penarikan kartu, setelah itu tautan akan ditampilkan
